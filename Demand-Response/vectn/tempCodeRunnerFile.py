@@ -1,1 +1,0 @@
-gen_billing_dt(self,env)
